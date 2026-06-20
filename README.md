@@ -4,11 +4,11 @@ Este repositorio contiene el código de nuestra implementación para la Tarea 2.
 
 El objetivo principal del algoritmo es encontrar la mejor secuencia de operaciones para minimizar el Makespan total.
 
-## Integrantes
-- Felipe Chavez Gonzalez
-- Kamila Leiva Morales
-- Ignacio Matus de la Parra Rodriguez
-- Sofía Mena Cortés
+## Integrantes:
+- Felipe Chavez Gonzalez | 21.637.345-6
+- Kamila Leiva Morales | 21.619.863-8
+- Ignacio Matus de la Parra Rodriguez | 21.780.939-8
+- Sofía Mena Cortés | 21.313.821-9
 
 ## Sobre el código
 - El algoritmo está programado en Python utilizando un Jupyter Notebook.
